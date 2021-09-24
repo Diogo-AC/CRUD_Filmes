@@ -2,8 +2,8 @@
  
 Métodos
 
-Inserir série
-Listar séries
-Atualizar série
-Visualizar série
-Excluir série
+- Inserir série
+- Listar séries
+- Atualizar série
+- Visualizar série
+- Excluir série
