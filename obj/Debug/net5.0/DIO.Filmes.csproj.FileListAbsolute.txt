@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Área de Trabalho\DIO.Filmes\bin\Debug\net5.0\DIO.Filmes.exe
+C:\Users\Dell\OneDrive\Área de Trabalho\DIO.Filmes\bin\Debug\net5.0\DIO.Filmes.deps.json
+C:\Users\Dell\OneDrive\Área de Trabalho\DIO.Filmes\bin\Debug\net5.0\DIO.Filmes.runtimeconfig.json
+C:\Users\Dell\OneDrive\Área de Trabalho\DIO.Filmes\bin\Debug\net5.0\DIO.Filmes.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Área de Trabalho\DIO.Filmes\bin\Debug\net5.0\DIO.Filmes.dll
+C:\Users\Dell\OneDrive\Área de Trabalho\DIO.Filmes\bin\Debug\net5.0\ref\DIO.Filmes.dll
+C:\Users\Dell\OneDrive\Área de Trabalho\DIO.Filmes\bin\Debug\net5.0\DIO.Filmes.pdb
+C:\Users\Dell\OneDrive\Área de Trabalho\DIO.Filmes\obj\Debug\net5.0\DIO.Filmes.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Área de Trabalho\DIO.Filmes\obj\Debug\net5.0\DIO.Filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Área de Trabalho\DIO.Filmes\obj\Debug\net5.0\DIO.Filmes.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Área de Trabalho\DIO.Filmes\obj\Debug\net5.0\DIO.Filmes.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Área de Trabalho\DIO.Filmes\obj\Debug\net5.0\DIO.Filmes.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Área de Trabalho\DIO.Filmes\obj\Debug\net5.0\DIO.Filmes.dll
+C:\Users\Dell\OneDrive\Área de Trabalho\DIO.Filmes\obj\Debug\net5.0\ref\DIO.Filmes.dll
+C:\Users\Dell\OneDrive\Área de Trabalho\DIO.Filmes\obj\Debug\net5.0\DIO.Filmes.pdb
+C:\Users\Dell\OneDrive\Área de Trabalho\DIO.Filmes\obj\Debug\net5.0\DIO.Filmes.genruntimeconfig.cache
